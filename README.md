@@ -7,7 +7,7 @@
 * [x] To My Critics
 * [x] Rudolph and Cut the Rope
 * [x] 1D Eraser
-* [ ] Number Spiral
+* [x] Number Spiral
 * [ ] SPOJ TDPrimes
 * [ ] CSES Exponentiation
 * [ ] CSES Counting Divisors
