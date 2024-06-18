@@ -19,3 +19,9 @@
 * [ ] 3Sum
 * [ ] Group Anagrams
 * [ ] nCr mod M
+
+## Week 2
+
+**Problem Set**
+
+* [x] Find first and last element in sorted array
