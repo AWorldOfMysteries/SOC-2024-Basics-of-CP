@@ -30,10 +30,10 @@
 
 **Problem Set**
 
-* [x] 1. Pascal’s Triangle
+* [x] *1. Pascal’s Triangle
 * [ ] 2. Maximal Square
 * [x] 3. Min Cost Climbing Stairs
 
 <br />
 
-* [x] 4. Basil’s Garden
+* [x] *4. Basil’s Garden
