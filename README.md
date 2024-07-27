@@ -38,6 +38,7 @@
 * [] 8. Equivalent Strings
 * [] 9. Stone Removing Game
 * [x] 10. SPIKES
+* [x] 11. Ada and Island
 
 
 ## Week 4

@@ -7,7 +7,7 @@ using namespace std;
 #define int long long
 #define inp(v, n) for(int i = 0; i < n; i++) {cin >> v[i];}
 
-// DFS
+// M1 : DFS
 
 bool dfs(vector<string> v, int n, int m, int r, int c, int cnt, int j, vector<vector<bool>>& visited){
     // base case
