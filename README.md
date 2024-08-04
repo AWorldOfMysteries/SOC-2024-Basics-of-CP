@@ -31,7 +31,7 @@
 * [] 1. Climbing Stairs
 * [] 2. Combinations
 * [] 3. Permutations
-* [] 4. Permutation Transformation
+* [x] 4. Permutation Transformation
 * [] 5. Masha and a Beautiful Tree
 * [] 6. a-Good String
 * [] 7. Creative Snap

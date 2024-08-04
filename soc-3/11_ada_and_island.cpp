@@ -6,6 +6,7 @@ using namespace std;
 #define int long long
 #define inp(v, n) for(int i = 0; i < n; i++) {cin >> v[i];}
 
+// M1 : DFS
 
 void dfs(vector<string>& v, int n, int m, int r, int c, vector<vector<bool>>& visited, int& cnt){
 
